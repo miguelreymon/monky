@@ -1,0 +1,6 @@
+{
+  "name": "Monky Estatuas",
+  "description": "Juego familiar de estatuas musicales para navegador · Monkyplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
